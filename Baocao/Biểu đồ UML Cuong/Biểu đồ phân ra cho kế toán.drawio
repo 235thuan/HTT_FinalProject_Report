@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
+  <diagram name="Page-1" id="Dyqx7wVkGTL6MdVg6WPS">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ms0ywho3L6nQnszyYnJi-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;startSize=8;endSize=8;" edge="1" parent="1" source="ms0ywho3L6nQnszyYnJi-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="356.00001525878906" y="2918.2499084472656" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms0ywho3L6nQnszyYnJi-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;startSize=8;endSize=8;" edge="1" parent="1" source="ms0ywho3L6nQnszyYnJi-3" target="ms0ywho3L6nQnszyYnJi-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ms0ywho3L6nQnszyYnJi-3" value="Kế toán" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="122" y="2776" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ms0ywho3L6nQnszyYnJi-4" value="Quản lý hóa đơn" style="ellipse;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="355" y="2892" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ms0ywho3L6nQnszyYnJi-5" value="Tìm kiếm" style="ellipse;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="305" y="3120" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ms0ywho3L6nQnszyYnJi-6" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=21;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="638" y="2904" as="sourcePoint" />
+            <mxPoint x="494" y="2921" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms0ywho3L6nQnszyYnJi-7" value="Thêm, sửa, xóa" style="ellipse;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="638" y="2869" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ms0ywho3L6nQnszyYnJi-8" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=21;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.014;exitY=0.304;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="567" y="3299" as="sourcePoint" />
+            <mxPoint x="423" y="3184" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms0ywho3L6nQnszyYnJi-9" value="Tìm kiếm lịch sử giao dịch" style="ellipse;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="563" y="3281" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
